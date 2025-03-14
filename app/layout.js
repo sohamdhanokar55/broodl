@@ -39,8 +39,8 @@ export default function RootLayout({ children }) {
   );
   const footer = (
     <footer className="p-4 sm:p-8 grid place-items-center">
-      <p className={"text-indigo-600 " + Fugaz_Onec.className}>
-        Created with 💗
+      <p className={"text-indigo-600 text-center " + Fugaz_Onec.className}>
+        Created with 💗<br></br> By Soham Dhanokar
       </p>
     </footer>
   );
